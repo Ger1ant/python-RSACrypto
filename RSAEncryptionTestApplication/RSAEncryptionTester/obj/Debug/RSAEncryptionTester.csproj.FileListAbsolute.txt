@@ -1,0 +1,10 @@
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.exe
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.pdb
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\bin\Debug\RSAEncryptionLib.dll
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\bin\Debug\RSAEncryptionLib.pdb
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.MainForm.resources
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.Properties.Resources.resources
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.csproj.GenerateResource.Cache
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.exe
+C:\Users\BERKAY\Desktop\RSAEncryptionTestApplication\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.pdb
